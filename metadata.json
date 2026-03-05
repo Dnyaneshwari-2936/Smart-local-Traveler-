@@ -1,0 +1,5 @@
+{
+  "name": "Pune Explorer",
+  "description": "Discover the vibrant soul of Pune with mood-based recommendations, AI itineraries, and local gems.",
+  "requestFramePermissions": ["geolocation"]
+}
